@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Prabh\'s Android Lab</string>
-    <string name="hello_message">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ</string>
+    <string name="hello_message">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ</string>
+    <string name="spin_message">ਸਪਿਨ ਝੰਡਾ</string>
+    <string name="button1">ਬਟਨ 1</string>
+    <string name="button2">ਬਟਨ 2</string>
+    <string name="button3">ਬਟਨ 3 </string>
 </resources>
