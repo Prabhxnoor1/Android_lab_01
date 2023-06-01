@@ -43,7 +43,7 @@ private MainViewModel model;
             variableBinding.checkBox.setChecked((Boolean) selected);
             variableBinding.radioButton.setChecked((Boolean) selected);
             variableBinding.switch1.setChecked((Boolean) selected);
-            CharSequence text = "The value is now: isChecked.";
+            CharSequence text = "The value is now: ." + selected;
             int duration = Toast.LENGTH_SHORT;
 
             Toast toast = Toast.makeText(this , text, duration);
