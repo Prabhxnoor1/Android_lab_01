@@ -4,4 +4,6 @@
     <color name="my_secondary">#31A5DA</color>
     <color name="my_statusbar">#FFC107</color>
     <color name="my_text">#F44336</color>
+    <color name="white">#FFFEFE</color>
+    <color name="purple_200">#9C27B0</color>
 </resources>
